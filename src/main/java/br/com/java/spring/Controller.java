@@ -8,6 +8,6 @@ public class Controller {
 
     @GetMapping("/")
     public String showMessage(){
-        return "My first spring project";
+        return "My first spring boot project";
     }
 }
